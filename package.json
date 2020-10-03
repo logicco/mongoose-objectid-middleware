@@ -14,9 +14,17 @@
     "param",
     "middleware"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logicco/mongoose-objectid-middleware.git"
+  },
   "author": "logicco.io",
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.10.7"
-  }
+  },
+  "bugs":{
+    "url": "https://github.com/logicco/mongoose-objectid-middleware/issues"
+  },
+  "homepage": "https://github.com/logicco/mongoose-objectid-middleware#readme"
 }
