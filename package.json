@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-objectid-middleware",
+  "version": "1.0.0",
+  "description": "This middleware will successfully throw 404 error instead of crashing the server when invalid mongodb objectId is passed in param",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "mongoose",
+    "mongodb",
+    "ObjectId",
+    "param",
+    "middleware"
+  ],
+  "author": "logicco.io",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.7"
+  }
+}
